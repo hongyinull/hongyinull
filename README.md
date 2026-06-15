@@ -1,12 +1,21 @@
-- 👋 Hi, I’m hong-yinull
-- 🇹🇼 Taiwan-based techart-lover💞️
-- 😵‍💫 Newcomer to Github
+### Hi, I'm 洪以諾 — HongYinull 👋
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/653982496987414528)](https://discord.com/users/653982496987414528)
+🇹🇼 Taiwan-based maker working at the intersection of **design, art, and code**.
+Now writing software full-time and leveling up into a full-stack engineer.
 
-<!---
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/653982496987414528?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/653982496987414528)
+🌐 Portfolio → **[yinull.space](https://yinull.space)**
 
-hongyinull/hongyinull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+#### ✨ Selected work
+- 📱 **InstaFilter** — a social-media filter discovery app that reached **#1 on the App Store** in Taiwan, Hong Kong & Thailand
+- 🌊 **Seadrift** — an interactive installation visualizing marine-debris data, exhibited at **Ars Electronica 2022**
+- 🧪 …more product design, new-media art & interaction experiments on my site
+
+#### 🛠️ Working with
+`JavaScript` · `React` · `Next.js` · `Node.js` · `MongoDB` · `Supabase` · `LangChain`
+
+#### 📫 Reach me
+- Instagram — [@hongyinull](https://instagram.com/hongyinull)
+- Telegram — [t.me/yinull](https://t.me/yinull)
+- Email — [hongyinull@gmail.com](mailto:hongyinull@gmail.com)
