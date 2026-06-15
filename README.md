@@ -16,6 +16,6 @@ Now writing software full-time and leveling up into a full-stack engineer.
 `JavaScript` · `React` · `Next.js` · `Node.js` · `MongoDB` · `Supabase` · `LangChain`
 
 #### 📫 Reach me
-- Instagram — [@hongyinull](https://instagram.com/hongyinull)
+- Instagram — [@yinullspace](https://instagram.com/yinullspace)
 - Telegram — [t.me/yinull](https://t.me/yinull)
-- Email — [hongyinull@gmail.com](mailto:hongyinull@gmail.com)
+- Email — [yinull@mail.com](mailto:yinull@mail.com)
