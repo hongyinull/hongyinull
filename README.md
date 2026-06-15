@@ -16,6 +16,12 @@ Now writing software full-time and leveling up into a full-stack engineer.
 `JavaScript` · `React` · `Next.js` · `Node.js` · `MongoDB` · `Supabase` · `LangChain`
 
 #### 📫 Reach me
-- Instagram — [@yinullspace](https://instagram.com/yinullspace)
+- Instagram — [@hongyinull](https://instagram.com/hongyinull)
 - Telegram — [t.me/yinull](https://t.me/yinull)
-- Email — [yinull@mail.com](mailto:yinull@mail.com)
+- Email — [hongyinull@gmail.com](mailto:hongyinull@gmail.com)
+
+---
+
+🎧 *What I'm vibing to right now (live via Discord):*
+
+[![Spotify / Discord Presence](https://lanyard-profile-readme.vercel.app/api/653982496987414528)](https://discord.com/users/653982496987414528)
